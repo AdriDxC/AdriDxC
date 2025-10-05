@@ -7,7 +7,8 @@
 <img src="https://lds-img.finalfantasyxiv.com/h/3/Jk768MD2Ejd7XopHym7bnXJTWg.png?_gl=1*38644c*_gcl_au*NTUxNzc0NzUxLjE3NTczMzk4Njk.&_ga=2.225909274.1852349992.1759624060-990158311.1683364916" width="80px">
 <img src="https://lds-img.finalfantasyxiv.com/h/J/BeaZcTXteNvSsWalB0nFRs9RY0.png?_gl=1*ji2jp7*_gcl_au*NTUxNzc0NzUxLjE3NTczMzk4Njk.&_ga=2.21846331.1852349992.1759624060-990158311.1683364916" width="80px">
 <img src="https://lds-img.finalfantasyxiv.com/h/0/nEvovFrqSbEnN1h-XMgQRQbEWc.png?_gl=1*ji2jp7*_gcl_au*NTUxNzc0NzUxLjE3NTczMzk4Njk.&_ga=2.21846331.1852349992.1759624060-990158311.1683364916" width="80px">
-  
+<img src="https://lds-img.finalfantasyxiv.com/h/5/7H3ISOMOTgQtfQh_5-vDvlMVFA.png?_gl=1*1kj9ntl*_gcl_au*NTUxNzc0NzUxLjE3NTczMzk4Njk.&_ga=2.259423370.1852349992.1759624060-990158311.1683364916" width="80px">
+<img src="https://lds-img.finalfantasyxiv.com/h/J/es2iX_LznvaM9ZWr45Z-3UFEhw.png?_gl=1*toib1f*_gcl_au*NTUxNzc0NzUxLjE3NTczMzk4Njk.&_ga=2.157046075.1852349992.1759624060-990158311.1683364916" width="80px">
 <h1 align="center">Soy <a href="https://github.com/AdriDxC">Adrián Díaz<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>Sobre mí ❄️</h1>
