@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">Soy <a href="https://github.com/Aryagm">Adrián Díaz<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Soy <a href="https://github.com/AdriDxC">Adrián Díaz<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>Sobre mí ❄️</h1>
 
